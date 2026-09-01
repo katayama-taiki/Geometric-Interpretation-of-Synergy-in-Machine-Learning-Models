@@ -1,7 +1,6 @@
 *.tar.gz
 *.zip
 Analysis/data/
-Analysis/data/conv_analysis_layer_with_5_neurons_relu_codecheck.ipynb
 Analysis/conv_analysis_layer_with_5_neurons_tanh_codecheck.ipynb
 Analysis/conv_analysis_layer_with_5_neurons_relu_codecheck.ipynb
 Analysis/mnist_analysis_layer_with_5_neurons_relu_codecheck.ipynb
